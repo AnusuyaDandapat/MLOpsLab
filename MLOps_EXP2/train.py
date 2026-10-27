@@ -1,0 +1,6 @@
+print("Machine Learning Training Pipeline")
+print("Loading dataset")
+print("Preprocessing data")
+print("Training ML model")
+print("Evaluating the model's performance")
+print("Model evaluation completed")
